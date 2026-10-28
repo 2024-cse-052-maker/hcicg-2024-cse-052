@@ -1,1 +1,3 @@
-# hcicg-2024-cse-052
+# Muhammad Furqan
+2024-cse-052
+C++/Python/WebGL
